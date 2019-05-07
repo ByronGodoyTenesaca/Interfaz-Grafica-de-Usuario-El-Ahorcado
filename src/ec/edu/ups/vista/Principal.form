@@ -634,7 +634,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Times New Roman" size="18" style="3"/>
+              <Font name="Tahoma" size="18" style="3"/>
             </Property>
             <Property name="text" type="java.lang.String" value="PISTA:"/>
           </Properties>
@@ -647,9 +647,6 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblImagen">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="jLabel2"/>
-          </Properties>
         </Component>
       </SubComponents>
     </Container>

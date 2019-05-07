@@ -472,12 +472,10 @@ public class Principal extends javax.swing.JFrame {
 
         jLabel3.setText(" ");
 
-        jLabel1.setFont(new java.awt.Font("Times New Roman", 3, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
         jLabel1.setText("PISTA:");
 
         lblPista.setFont(new java.awt.Font("Times New Roman", 2, 18)); // NOI18N
-
-        lblImagen.setText("jLabel2");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
